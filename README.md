@@ -1,1 +1,2 @@
-# Coding Test – Solutions in C++
+# Coding Test – Solutions in C++ Language.
+ 
